@@ -1,4 +1,4 @@
-er@charset "UTF-8";
+@charset "UTF-8";
 /* CSS Document */
 
 a:link {
@@ -58,13 +58,15 @@ img.li {
 }
 
 .head {
-	margin: 0 0 0 0px; /*	margin: 0 0 0 209px; */
+	/*	margin: 0 0 0 209px; */
+	margin: 0 0 0 0px; 
 }
 
 .text {
 	float: left;
 	clear: both;
-	width: 1110px; /*	width: 820px; */
+	/*	width: 820px; */
+	width: 1110px; 
 }
 
 /* navigation buttons */
