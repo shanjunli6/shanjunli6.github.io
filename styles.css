@@ -69,16 +69,18 @@ img.li {
 
 /* navigation buttons */
 #nav {
-	float: center;
+	float: left;
 	margin: 0 0 15px 0;
 	padding: 0;
 	list-style: none;
 	font-family: "MyGaramondFont", 'Muli', sans-serif, "Verdana", Bookman, Myriad Pro, Helvetica; 
 	font-size: 110%;
+	white-space:nowrap;
 }
 
 #nav li {
 	float: left; 
+	display: inline-block;
 }
 
 #nav li a {
