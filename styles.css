@@ -134,6 +134,15 @@ p, li  {
 	padding: 0 0 9px 0;
 	text-align: justify;
 }
+
+p.head1 {
+	font-size: 120%;
+	line-height: 140%;
+	margin: 0;
+	padding: 0 0 9px 0;
+	text-align: justify;	
+}
+
 ol {
 	margin: 0 0 0 19px;
 	padding: 0;
