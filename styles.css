@@ -76,7 +76,7 @@ img.li {
 	padding: 0;
 	list-style: none;
 	font-family: Open Sans, "MyGaramondFont", 'Muli', sans-serif, "Verdana", Bookman, Myriad Pro, Helvetica; 
-	font-size: 100%;
+	font-size: 110%;
 	white-space:nowrap;
 }
 
@@ -136,7 +136,7 @@ p, li  {
 }
 
 .head1 p {
-	font-size: 100%;
+	font-size: 110%;
 	line-height: 140%;
 	margin: 0;
 	padding: 0 0 9px 0;
