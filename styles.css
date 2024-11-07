@@ -32,11 +32,17 @@ a:active {
 	  local("MyGaramondFont"), url("fonts/AGaramondPro-Regular.otf");
 }
 
+@font-face {
+	font-family: "MyOpenSans";
+	src:
+	  local("MyOpenSans"), url("fonts/OpenSans-Regular.ttf");
+}
+
 body {
 	margin: 0;
 	padding: 0;
 	font-size: 100%;
-	font-family: Open Sans, "MyGaramondFont", 'Muli', sans-serif, Georgia, "Verdana", Bookman, Myriad Pro, Helvetica;
+	font-family: "MyOpenSans", "MyGaramondFont", 'Muli', sans-serif, Georgia, "Verdana", Bookman, Myriad Pro, Helvetica;
 	background: #fff;
 }
 
@@ -75,7 +81,7 @@ img.li {
 	margin: 0 0 15px 0;
 	padding: 0;
 	list-style: none;
-	font-family: Open Sans, "MyGaramondFont", 'Muli', sans-serif, "Verdana", Bookman, Myriad Pro, Helvetica; 
+	font-family: "MyOpenSans", "MyGaramondFont", 'Muli', sans-serif, "Verdana", Bookman, Myriad Pro, Helvetica; 
 	font-size: 110%;
 	white-space:nowrap;
 }
