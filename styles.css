@@ -36,7 +36,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-size: 115%;
-	font-family: "MyGaramondFont", 'Muli', sans-serif, Georgia, "Verdana", Bookman, Myriad Pro, Helvetica;
+	font-family: Open Sans, "MyGaramondFont", 'Muli', sans-serif, Georgia, "Verdana", Bookman, Myriad Pro, Helvetica;
 	background: #fff;
 }
 
@@ -75,7 +75,7 @@ img.li {
 	margin: 0 0 15px 0;
 	padding: 0;
 	list-style: none;
-	font-family: "MyGaramondFont", 'Muli', sans-serif, "Verdana", Bookman, Myriad Pro, Helvetica; 
+	font-family: Open Sans, "MyGaramondFont", 'Muli', sans-serif, "Verdana", Bookman, Myriad Pro, Helvetica; 
 	font-size: 110%;
 	white-space:nowrap;
 }
